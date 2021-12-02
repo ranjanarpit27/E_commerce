@@ -9,4 +9,5 @@ In this project I used commerce.js for backend to store product details
 ##
 For payment Gatway I used striped in developer modes 
 
+![image](./src/assets/home.png)
 
